@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2020 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">Jetpet</string>
+    <string name="label_back">Back</string>
+
+    <!-- Home Tabs -->
+    <string name="home_feed">Home</string>
+    <string name="home_search">Search</string>
+    <string name="home_cart">My Cart</string>
+    <string name="home_profile">Profile</string>
+
+    <!-- Home -->
+    <string name="label_filters">Filters</string>
+    <string name="label_select_delivery">Select delivery address</string>
+
+    <!-- Search -->
+    <string name="search_jetpet">Search Jetpet</string>
+    <string name="search_no_matches">No matches for “%1s”</string>
+    <string name="search_no_matches_retry">Try broadening your search</string>
+    <string name="search_count">%1d items</string>
+    <string name="label_add">Add to cart</string>
+    <string name="label_search">Perform search</string>
+
+    <!-- Pet Detail -->
+    <string name="detail_placeholder">You’ve finally decided it’s time…. to adopt a dog. But how do you make sure you are choosing the right one. Here are four things to think about before you adopt to make sure you have the perfect companion.
+1) Knowing the dog\'s energy level is very important. This will determine the amount of exercise you need to give the dog and in turn the amount of time you need to invest in him. A high energy dog will require at least an hour of two running around or long walks whereas a more mellow dog will do maybe with half hour of exercise.
+2) The need for attention of every dog differs.  A dog who stays around you and keeps nudging you will need you to engage with them often. A more independent dog who is content and sits peacefully will not need constant attention from you.
+3) The age of the dog too is a very important consideration. Raising a puppy is a lot of fun but will need a lot of patience, training, toys to play with, while a mature dog will need a lesser amount of training and time.
+4) And if Veterinary bills are a consideration, then mixed breed dogs fit the bill better as they have lesser health issues. A pure pedigree dog can require more maintenance.
+And in case you do have some money to spare then we suggest you adopt a Special needs dog which we assure you will be far more rewarding and fulfilling. They can have issues such as limited mobility or some allergy but still have a good quality of life and be very loving.“Money can buy you a fine dog, but only love can make him wag his tail.”</string>
+    <string name="adopt">Adopt</string>
+    <string name="ingredients_list">Vanilla, Almond Flour, Eggs, Butter, Cream, Sugar</string>
+    <string name="quantity">Qty</string>
+    <string name="add_to_cart">ADD TO CART</string>
+
+    <!-- Cart -->
+    <string name="cart_order_header">Order (%1s)</string>
+    <plurals name="cart_order_count">
+        <item quantity="one">%1d item</item>
+        <item quantity="other">%1d items</item>
+    </plurals>
+    <string name="cart_summary_header">Summary</string>
+    <string name="cart_subtotal_label">Subtotal</string>
+    <string name="cart_shipping_label">Shipping &amp; Handling</string>
+    <string name="cart_total_label">Total</string>
+    <string name="cart_checkout">Checkout</string>
+    <string name="label_remove">Remove item</string>
+
+    <!-- Quantity Selector -->
+    <string name="label_increase">Increase</string>
+    <string name="label_decrease">Decrease</string>
+
+</resources>
